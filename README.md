@@ -1,1 +1,3 @@
-# js-full
+# forkify Project
+
+Repo for forkify (complete-js)
